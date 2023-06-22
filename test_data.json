@@ -1,0 +1,40 @@
+{
+  "message": "The data were fetched successfully.",
+  "data": {
+    "date": "2023-06-22",
+    "day": 484,
+    "resource": "https://www.mil.gov.ua/news/2023/06/22/vid-pochatku-shirokomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-uzhe-blizko-222-6-tis-osib-znishheno-617-rszv-ta-376-zasobiv-ppo-voroga-–-genshtab-zsu/",
+    "stats": {
+      "personnel_units": 222650,
+      "tanks": 4013,
+      "armoured_fighting_vehicles": 7783,
+      "artillery_systems": 3941,
+      "mlrs": 617,
+      "aa_warfare_systems": 376,
+      "planes": 314,
+      "helicopters": 307,
+      "vehicles_fuel_tanks": 6678,
+      "warships_cutters": 18,
+      "cruise_missiles": 1214,
+      "uav_systems": 3438,
+      "special_military_equip": 539,
+      "atgm_srbm_systems": 4
+    },
+    "increase": {
+      "personnel_units": 650,
+      "tanks": 7,
+      "armoured_fighting_vehicles": 12,
+      "artillery_systems": 21,
+      "mlrs": 2,
+      "aa_warfare_systems": 1,
+      "planes": 0,
+      "helicopters": 1,
+      "vehicles_fuel_tanks": 11,
+      "warships_cutters": 0,
+      "cruise_missiles": 0,
+      "uav_systems": 10,
+      "special_military_equip": 0,
+      "atgm_srbm_systems": 0
+    }
+  }
+}
